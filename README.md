@@ -1,5 +1,9 @@
-# DMIT2015 Basic Starter Kit
+# DMIT2015 Fall 2022 assignments
 
-## Owner your name
+## your name here
 
-alter this statement to indicate the usage of this repository
+## your Github Account id
+
+This is a private repository for your assignments. 
+You will use this only for evaluation work. 
+Assignment work not submitted within this repository will not be evaluated.
