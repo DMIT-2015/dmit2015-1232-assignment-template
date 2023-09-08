@@ -1,4 +1,4 @@
-# DMIT2015 Spring 2023 Term assignments
+# DMIT2015 Fall 2023 Term assignments
 
 ## your name here
 
