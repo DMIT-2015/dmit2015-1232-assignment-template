@@ -22,6 +22,7 @@
 *.tag           text
 *.tagx          text
 *.xml           text
+*.xhtml         text
 
 # These files are binary and should be left untouched
 # (binary is a macro for -text -diff)
